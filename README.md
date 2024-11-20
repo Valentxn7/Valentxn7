@@ -1,21 +1,20 @@
 ---
 ## Where have you landed? 🪂
-
 ---
 
 I'm a passionate **French Developer** currently studying for my **Bachelor's Degree (BAC+2)** in computer science! 🎓  
 I work on a wide range of projects, from web development to system programming, and I'm always learning new skills! 🌱
 
 ---
-## What interesting things can you see?
+### What interesting things can you see ?📍
 ---
 
-## 📍 Featured Projects
+##  Featured Projects
 
 - **[Deefy](https://github.com/Valentxn7/Deefy)**: A study project that proposes a modern music streaming app with a clean, dark Spotify-inspired design. 🎶
 - **[Nrv](https://github.com/SolareFlame/Nrv)**: A study project that proposes a makeover for the Nancy Jazz Pulsation event. 🎉  
-  Some projects are in the @SolareFlame profile because he's one of my teammates.
 
+🧷 Some projects are in the [@SolareFlame](https://github.com/SolareFlame) profile because he's one of my teammates.
 🔒 More projects are private at the moment, so stay tuned for more cool stuff! 🕵️‍♂️
 
 ---
