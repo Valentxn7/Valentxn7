@@ -1,5 +1,5 @@
 ---
-## Where have you landed? 🪂 ![1fa82](https://github.com/user-attachments/assets/eee35a1d-20c2-4adb-8f7f-fb4e6d7b454b)
+## Where have you landed? 🪂
 
 ---
 
