@@ -2,7 +2,7 @@
 ### Where have you landed? 🪂
 ---
 
-I'm a passionate **French Developer** currently studying for my **Bachelor's Degree (BAC+2)** in computer science! 🎓  
+I'm a passionate **French developer** studying for my **Bachelor's Degree (BAC+3)** and aiming for an engineering degree in computer science! 🎓
 I work on a wide range of projects, from web development to system programming, and I'm always learning new skills! 🌱
 
 ---
