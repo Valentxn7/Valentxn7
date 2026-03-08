@@ -1,32 +1,74 @@
+<h1 align="center">👨‍💻 Valentin K.</h1>
+<p align="center">
+Cybersecurity Student @ TELECOM Nancy
+</p>
+
 ---
 ### Where have you landed? 🪂  
 ---
 
-I'm a passionate **French developer** studying for my **Bachelor's (BAC+3)** and aiming for an engineering degree in computer science! 🎓  
-I work on a wide range of projects, from web development to system programming, and I'm always learning new skills! 🌱  
+I'm a passionate **French developer** studying for an cybersecurity engineering degree at TELECOM Nancy ! 🎓  
+I work on a wide range of projects, from development, cybersecurity to system programming, and I'm always learning new skills! 🌱  
 
 ---
-### What interesting things can you see ?📍  
+
+## 🛡️ About Me
+
+I am particularly interested in :
+
+- Penetration testing
+- Reverse engineering
+- Threat modelling
+
+I regularly practice cybersecurity through CTF platforms and personal labs.
+
+Platforms :
+
+- Root-Me
+- Hack The Box
+
 ---
 
-- **[Deefy](https://github.com/Valentxn7/Deefy)**: A study project that proposes a modern music streaming app with a clean, dark Spotify-inspired design. 🎶  
-- **[Nrv](https://github.com/SolareFlame/Nrv)**: A study project that proposes a makeover for the Nancy Jazz Pulsation event. 🎉
-- **[Zeldiablo](https://github.com/SolareFlame/2024_Zeldiablo_heuertz_knorst_defolie)**: A study project featuring a game about a brave otter, primarily based on graph theory concepts. 🦦  
+## 📂 Cyber Projects
 
-🧷 Some projects are in the [@SolareFlame](https://github.com/SolareFlame) profile because he's one of my teammates.  
-🔒 More projects are private at the moment, so stay tuned for more cool stuff! 🕵️‍♂️  
+### Web session hijacking lab
+Educational Flask lab demonstrating session hijacking attacks (MITM, CSRF, XSS) and their mitigations.  
+
+Topics :
+- daily risk demo
+- attack scenarios
+- security measures
+
+[![View Repo](https://img.shields.io/badge/Web%20Session%20Hijacking-Lab-brightgreen?style=for-the-badge&logo=github)](https://github.com/Valentxn7/web-session-hijacking-attack-and-mitigation)
 
 ---
-### 🔧 What are my skills?  
+
+## 📂 Dev Projects
+
+### Deefy
+A study project that proposes a modern music streaming app with a clean, dark Spotify-inspired design. 🎶  
+
+[![View Repo](https://img.shields.io/badge/Deefy-Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/Valentxn7/Deefy)
+
+### Nrv
+A study project that proposes a makeover for the Nancy Jazz Pulsation event. 🎉
+
+[![View Repo](https://img.shields.io/badge/Nrv-Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/SolareFlame/Nrv)
+
+### Zeldiablo
+A study project featuring a game about a brave otter, primarily based on graph theory concepts. 🦦  
+
+[![View Repo](https://img.shields.io/badge/Zeldiablo-Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/SolareFlame/2024_Zeldiablo_heuertz_knorst_defolie)
+
 ---
 
-I work with a wide array of programming languages and tools. Here's what I’m most comfortable with:  
-- **Languages**: Java, Python, C, Bash 🖥️  
-- **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap 🌍  
+## 🎯 Looking for
 
-## 🎯 I'm Open for Internships!  
-I'll be available for internships starting **February 17th, 2024** 💼.  
-Preferably in the north-east of France or in the south of Luxembourg.  
+I am currently looking for a **2-year cybersecurity apprenticeship (BAC+4/BAC+5)**.
+
+Feel free to contact me.
+
+---
 
 ## 🌟 Other facts  
 - I'm a fan of coding challenges and mathematics olympiads ∑💻  
