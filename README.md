@@ -62,6 +62,20 @@ A study project featuring a game about a brave otter, primarily based on graph t
 
 ---
 
+## 🚩 CTF
+
+### Midnight Flag 2026 (International)
+Participated in a 48-hour international CTF (March 13–15, 2026)  
+Competed with the Hackin'TN team  
+
+### Hackin'TN (Club Activity)
+Challenge maker for upcoming CTFs and training sessions
+
+### Hackin'TN
+Second place at the 2025 Hackin'TN CTF  
+
+---
+
 ## 🎯 Looking for
 
 I am currently looking for a **2-year cybersecurity apprenticeship (BAC+4/BAC+5)**.
